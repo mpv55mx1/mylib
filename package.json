@@ -1,0 +1,22 @@
+{
+  "name": "@mexind/mylib",
+  "version": "1.0.0",
+  "description": "a test library, please ignore",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iapws95",
+    "steamtables",
+    "water",
+    "typescript"
+  ],
+  "homepage": "https://github.com/mpv55mx1/@mexind/mylib",
+  "author": "Mahendra P. Verma <mpv55.mx1@gmail.com>",
+  "license": "MIT"
+}
